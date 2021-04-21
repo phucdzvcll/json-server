@@ -1,0 +1,26 @@
+@baseUrl = http://localhost:3000/api
+
+
+# @name getAll
+GET {{baseUrl}}/champions
+
+###
+
+# @name post
+POST {{baseUrl}}/champions
+Content-Type:application/json
+
+{
+    "id": 3,
+    "name": "Diana",
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/4.5/Diana.png"
+}
+
+###
+# @name delete
+DELETE {{baseUrl}}/champions/4
+
+###
+
+GET {{baseUrl}}/champions?_sort=cost&_order=desc

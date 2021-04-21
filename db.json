@@ -1,0 +1,17 @@
+{
+  "champions": [
+    {
+      "id": 1,
+      "name": "Brand",
+      "cost": 1,
+      "imgUrl": "https://rerollcdn.com/characters/Skin/4.5/Brand.png"
+    },
+    {
+      "id": 2,
+      "name": "Diana",
+      "cost": 2,
+      "imgUrl": "https://rerollcdn.com/characters/Skin/4.5/Diana.png",
+      "createdAt": 1619013836617
+    }
+  ]
+}
