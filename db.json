@@ -530,12 +530,6 @@
         "Cultist",
         "Set4_Mystic"
       ]
-    },
-    {
-      "name": "Target Dummy",
-      "id": "TFT_TrainingDummy",
-      "cost": 2,
-      "traits": []
     }
   ]
 }
