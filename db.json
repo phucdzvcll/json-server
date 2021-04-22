@@ -1,13 +1,13 @@
 {
   "champions": [
     {
-      "id": 1,
+      "id": "Brand",
       "name": "Brand",
       "cost": 1,
       "imgUrl": "https://rerollcdn.com/characters/Skin/4.5/Brand.png"
     },
     {
-      "id": 2,
+      "id": "Diana",
       "name": "Diana",
       "cost": 2,
       "imgUrl": "https://rerollcdn.com/characters/Skin/4.5/Diana.png",
