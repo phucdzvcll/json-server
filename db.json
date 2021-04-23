@@ -531,5 +531,22 @@
         "Set4_Mystic"
       ]
     }
+  ],
+  "recommendation": [
+    {
+      "id":1,
+      "rank":"S",
+      "champions":["TFT4_Aatrox","TFT4_Akali","TFT4_Kennen"]
+    },
+    {
+      "id":2,
+      "rank":"B",
+      "champions":["TFT4b_Zed","TFT4_Akali","TFT4_Kennen"]
+    },
+    {
+      "id":3,
+      "rank":"A",
+      "champions":["Aatrox","TFT4_Zilean","TFT4_Yasuo"]
+    }
   ]
 }
