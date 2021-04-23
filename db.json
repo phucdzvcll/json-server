@@ -534,19 +534,34 @@
   ],
   "recommendation": [
     {
-      "id":1,
-      "rank":"S",
-      "champions":["Aatrox","Akali","Kennen"]
-    },
-    {
-      "id":2,
-      "rank":"B",
-      "champions":["Zed","Akali","Kennen"]
-    },
-    {
-      "id":3,
-      "rank":"A",
-      "champions":["Aatrox","Zilean","Yasuo"]
+      "id": 1,
+      "rank": "S",
+      "champions": [
+        {
+          "id": "Aatrox",
+          "cost": 4,
+          "traits": [
+            "Cultist",
+            "Vanguard"
+          ]
+        },
+        {
+          "id": "Akali",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Assassin"
+          ]
+        },
+        {
+          "id": "Kennen",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Keeper"
+          ]
+        }
+      ]
     }
   ]
 }
