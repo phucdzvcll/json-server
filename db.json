@@ -562,6 +562,66 @@
           ]
         }
       ]
+    },
+    {
+      "id":2,
+      "rank": "A",
+      "champions": [
+        {
+          "id": "Aatrox",
+          "cost": 4,
+          "traits": [
+            "Cultist",
+            "Vanguard"
+          ]
+        },
+        {
+          "id": "Akali",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Assassin"
+          ]
+        },
+        {
+          "id": "Kennen",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Keeper"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rank": "B",
+      "champions": [
+        {
+          "id": "Aatrox",
+          "cost": 4,
+          "traits": [
+            "Cultist",
+            "Vanguard"
+          ]
+        },
+        {
+          "id": "Akali",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Assassin"
+          ]
+        },
+        {
+          "id": "Kennen",
+          "cost": 3,
+          "traits": [
+            "Ninja",
+            "Keeper"
+          ]
+        }
+      ]
     }
   ]
 }
