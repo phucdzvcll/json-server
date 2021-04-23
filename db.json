@@ -2,43 +2,43 @@
   "champions": [
     {
       "name": "Aatrox",
-      "id": "TFT4_Aatrox",
+      "id": "Aatrox",
       "cost": 4,
       "traits": [
         "Cultist",
-        "Set4_Vanguard"
+        "Vanguard"
       ]
     },
     {
       "name": "Akali",
-      "id": "TFT4_Akali",
+      "id": "Akali",
       "cost": 3,
       "traits": [
-        "Set4_Ninja",
-        "Set4_Assassin"
+        "Ninja",
+        "Assassin"
       ]
     },
     {
       "name": "Annie",
-      "id": "TFT4_Annie",
+      "id": "Annie",
       "cost": 2,
       "traits": [
         "Fortune",
-        "Set4_Mage"
+        "Mage"
       ]
     },
     {
       "name": "Aurelion Sol",
-      "id": "TFT4_AurelionSol",
+      "id": "AurelionSol",
       "cost": 4,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Mage"
+        "Dragonsoul",
+        "Mage"
       ]
     },
     {
       "name": "Azir",
-      "id": "TFT4_Azir",
+      "id": "Azir",
       "cost": 5,
       "traits": [
         "Warlord",
@@ -48,52 +48,52 @@
     },
     {
       "name": "Brand",
-      "id": "TFT4_Brand",
+      "id": "Brand",
       "cost": 1,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Mage"
+        "Dragonsoul",
+        "Mage"
       ]
     },
     {
       "name": "Braum",
-      "id": "TFT4_Braum",
+      "id": "Braum",
       "cost": 2,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Vanguard"
+        "Dragonsoul",
+        "Vanguard"
       ]
     },
     {
       "name": "Cho'Gath",
-      "id": "TFT4_ChoGath",
+      "id": "ChoGath",
       "cost": 4,
       "traits": [
-        "Set4_Fabled",
-        "Set4_Brawler"
+        "Fabled",
+        "Brawler"
       ]
     },
     {
       "name": "Darius",
-      "id": "TFT4_Darius",
+      "id": "Darius",
       "cost": 3,
       "traits": [
         "Fortune",
-        "Set4_Slayer"
+        "Slayer"
       ]
     },
     {
       "name": "Diana",
-      "id": "TFT4b_Diana",
+      "id": "Diana",
       "cost": 1,
       "traits": [
-        "Set4_Spirit",
-        "Set4_Assassin"
+        "Spirit",
+        "Assassin"
       ]
     },
     {
       "name": "Elise",
-      "id": "TFT4_Elise",
+      "id": "Elise",
       "cost": 1,
       "traits": [
         "Cultist",
@@ -102,44 +102,44 @@
     },
     {
       "name": "Fiora",
-      "id": "TFT4_Fiora",
+      "id": "Fiora",
       "cost": 1,
       "traits": [
-        "Set4_Enlightened",
+        "Enlightened",
         "Duelist"
       ]
     },
     {
       "name": "Garen",
-      "id": "TFT4_Garen",
+      "id": "Garen",
       "cost": 1,
       "traits": [
         "Warlord",
-        "Set4_Vanguard"
+        "Vanguard"
       ]
     },
     {
       "name": "Irelia",
-      "id": "TFT4_Irelia",
+      "id": "Irelia",
       "cost": 3,
       "traits": [
-        "Set4_Enlightened",
+        "Enlightened",
         "Divine",
-        "Set4_Adept"
+        "Adept"
       ]
     },
     {
       "name": "Janna",
-      "id": "TFT4_Janna",
+      "id": "Janna",
       "cost": 2,
       "traits": [
-        "Set4_Enlightened",
-        "Set4_Mystic"
+        "Enlightened",
+        "Mystic"
       ]
     },
     {
       "name": "Jarvan IV",
-      "id": "TFT4_JarvanIV",
+      "id": "JarvanIV",
       "cost": 2,
       "traits": [
         "Warlord",
@@ -148,7 +148,7 @@
     },
     {
       "name": "Jax",
-      "id": "TFT4_Jax",
+      "id": "Jax",
       "cost": 2,
       "traits": [
         "Divine",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Kalista",
-      "id": "TFT4_Kalista",
+      "id": "Kalista",
       "cost": 3,
       "traits": [
         "Cultist",
@@ -166,44 +166,44 @@
     },
     {
       "name": "Katarina",
-      "id": "TFT4_Katarina",
+      "id": "Katarina",
       "cost": 3,
       "traits": [
         "Warlord",
         "Fortune",
-        "Set4_Assassin"
+        "Assassin"
       ]
     },
     {
       "name": "Kayle",
-      "id": "TFT4_Kayle",
+      "id": "Kayle",
       "cost": 4,
       "traits": [
         "Divine",
-        "Set4_Executioner"
+        "Executioner"
       ]
     },
     {
       "name": "Kennen",
-      "id": "TFT4_Kennen",
+      "id": "Kennen",
       "cost": 3,
       "traits": [
-        "Set4_Ninja",
+        "Ninja",
         "Keeper"
       ]
     },
     {
       "name": "Kindred",
-      "id": "TFT4b_Kindred",
+      "id": "Kindred",
       "cost": 3,
       "traits": [
-        "Set4_Spirit",
-        "Set4_Executioner"
+        "Spirit",
+        "Executioner"
       ]
     },
     {
       "name": "Lee Sin",
-      "id": "TFT4_LeeSin",
+      "id": "LeeSin",
       "cost": 5,
       "traits": [
         "Divine",
@@ -212,61 +212,61 @@
     },
     {
       "name": "Lulu",
-      "id": "TFT4_Lulu",
+      "id": "Lulu",
       "cost": 2,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Mage"
+        "Elderwood",
+        "Mage"
       ]
     },
     {
       "name": "Maokai",
-      "id": "TFT4_Maokai",
+      "id": "Maokai",
       "cost": 1,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Brawler"
+        "Elderwood",
+        "Brawler"
       ]
     },
     {
       "name": "Morgana",
-      "id": "TFT4b_Morgana",
+      "id": "Morgana",
       "cost": 4,
       "traits": [
-        "Set4_Enlightened",
-        "Set4_Syphoner"
+        "Enlightened",
+        "Syphoner"
       ]
     },
     {
       "name": "Nasus",
-      "id": "TFT4_Nasus",
+      "id": "Nasus",
       "cost": 1,
       "traits": [
         "Divine",
-        "Set4_Syphoner"
+        "Syphoner"
       ]
     },
     {
       "name": "Nautilus",
-      "id": "TFT4_Nautilus",
+      "id": "Nautilus",
       "cost": 2,
       "traits": [
-        "Set4_Fabled",
-        "Set4_Vanguard"
+        "Fabled",
+        "Vanguard"
       ]
     },
     {
       "name": "Neeko",
-      "id": "TFT4_Neeko",
+      "id": "Neeko",
       "cost": 3,
       "traits": [
-        "Set4_Fabled",
-        "Set4_Mystic"
+        "Fabled",
+        "Mystic"
       ]
     },
     {
       "name": "Nidalee",
-      "id": "TFT4_Nidalee",
+      "id": "Nidalee",
       "cost": 1,
       "traits": [
         "Warlord",
@@ -275,101 +275,101 @@
     },
     {
       "name": "Nunu & Willump",
-      "id": "TFT4_Nunu",
+      "id": "Nunu",
       "cost": 3,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Brawler"
+        "Elderwood",
+        "Brawler"
       ]
     },
     {
       "name": "Olaf",
-      "id": "TFT4_Olaf",
+      "id": "Olaf",
       "cost": 4,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Slayer"
+        "Dragonsoul",
+        "Slayer"
       ]
     },
     {
       "name": "Ornn",
-      "id": "TFT4_Ornn",
+      "id": "Ornn",
       "cost": 5,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Vanguard",
-        "Set4_Blacksmith"
+        "Elderwood",
+        "Vanguard",
+        "Blacksmith"
       ]
     },
     {
       "name": "Pyke",
-      "id": "TFT4_Pyke",
+      "id": "Pyke",
       "cost": 2,
       "traits": [
         "Cultist",
-        "Set4_Assassin",
-        "Set4_Slayer"
+        "Assassin",
+        "Slayer"
       ]
     },
     {
       "name": "Rakan",
-      "id": "TFT4_Rakan",
+      "id": "Rakan",
       "cost": 2,
       "traits": [
-        "Set4_Elderwood",
+        "Elderwood",
         "Keeper"
       ]
     },
     {
       "name": "Samira",
-      "id": "TFT4_Samira",
+      "id": "Samira",
       "cost": 5,
       "traits": [
-        "Set4_Daredevil",
+        "Daredevil",
         "Sharpshooter",
-        "Set4_Slayer"
+        "Slayer"
       ]
     },
     {
       "name": "Sejuani",
-      "id": "TFT4_Sejuani",
+      "id": "Sejuani",
       "cost": 4,
       "traits": [
         "Fortune",
-        "Set4_Vanguard"
+        "Vanguard"
       ]
     },
     {
       "name": "Sett",
-      "id": "TFT4_Sett",
+      "id": "Sett",
       "cost": 5,
       "traits": [
         "Boss",
-        "Set4_Brawler"
+        "Brawler"
       ]
     },
     {
       "name": "Shen",
-      "id": "TFT4_Shen",
+      "id": "Shen",
       "cost": 4,
       "traits": [
-        "Set4_Ninja",
-        "Set4_Adept",
-        "Set4_Mystic"
+        "Ninja",
+        "Adept",
+        "Mystic"
       ]
     },
     {
       "name": "Shyvana",
-      "id": "TFT4_Shyvana",
+      "id": "Shyvana",
       "cost": 3,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Brawler"
+        "Dragonsoul",
+        "Brawler"
       ]
     },
     {
       "name": "Sivir",
-      "id": "TFT4_Sivir",
+      "id": "Sivir",
       "cost": 3,
       "traits": [
         "Cultist",
@@ -378,157 +378,157 @@
     },
     {
       "name": "Swain",
-      "id": "TFT4_Swain",
+      "id": "Swain",
       "cost": 5,
       "traits": [
-        "Set4_Dragonsoul",
-        "Set4_Syphoner"
+        "Dragonsoul",
+        "Syphoner"
       ]
     },
     {
       "name": "Tahm Kench",
-      "id": "TFT4_TahmKench",
+      "id": "TahmKench",
       "cost": 1,
       "traits": [
         "Fortune",
-        "Set4_Brawler"
+        "Brawler"
       ]
     },
     {
       "name": "Talon",
-      "id": "TFT4_Talon",
+      "id": "Talon",
       "cost": 4,
       "traits": [
-        "Set4_Enlightened",
-        "Set4_Assassin"
+        "Enlightened",
+        "Assassin"
       ]
     },
     {
       "name": "Teemo",
-      "id": "TFT4_Teemo",
+      "id": "Teemo",
       "cost": 2,
       "traits": [
-        "Set4_Spirit",
+        "Spirit",
         "Sharpshooter"
       ]
     },
     {
       "name": "Tristana",
-      "id": "TFT4_Tristana",
+      "id": "Tristana",
       "cost": 1,
       "traits": [
-        "Set4_Dragonsoul",
+        "Dragonsoul",
         "Sharpshooter"
       ]
     },
     {
       "name": "Tryndamere",
-      "id": "TFT4_Tryndamere",
+      "id": "Tryndamere",
       "cost": 4,
       "traits": [
         "Warlord",
-        "Set4_Slayer",
+        "Slayer",
         "Duelist"
       ]
     },
     {
       "name": "Twisted Fate",
-      "id": "TFT4_TwistedFate",
+      "id": "TwistedFate",
       "cost": 1,
       "traits": [
         "Cultist",
-        "Set4_Mage"
+        "Mage"
       ]
     },
     {
       "name": "Veigar",
-      "id": "TFT4_Veigar",
+      "id": "Veigar",
       "cost": 3,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Mage"
+        "Elderwood",
+        "Mage"
       ]
     },
     {
       "name": "Vi",
-      "id": "TFT4_Vi",
+      "id": "Vi",
       "cost": 2,
       "traits": [
         "Warlord",
-        "Set4_Brawler"
+        "Brawler"
       ]
     },
     {
       "name": "Vladimir",
-      "id": "TFT4_Vladimir",
+      "id": "Vladimir",
       "cost": 2,
       "traits": [
         "Cultist",
-        "Set4_Syphoner"
+        "Syphoner"
       ]
     },
     {
       "name": "Wukong",
-      "id": "TFT4_Wukong",
+      "id": "Wukong",
       "cost": 1,
       "traits": [
         "Divine",
-        "Set4_Vanguard"
+        "Vanguard"
       ]
     },
     {
       "name": "Xayah",
-      "id": "TFT4_Xayah",
+      "id": "Xayah",
       "cost": 4,
       "traits": [
-        "Set4_Elderwood",
-        "Set4_Executioner",
+        "Elderwood",
+        "Executioner",
         "Keeper"
       ]
     },
     {
       "name": "Yasuo",
-      "id": "TFT4_Yasuo",
+      "id": "Yasuo",
       "cost": 1,
       "traits": [
-        "Set4_Exile",
+        "Exile",
         "Duelist"
       ]
     },
     {
       "name": "Yone",
-      "id": "TFT4_Yone",
+      "id": "Yone",
       "cost": 5,
       "traits": [
-        "Set4_Exile",
-        "Set4_Adept"
+        "Exile",
+        "Adept"
       ]
     },
     {
       "name": "Yuumi",
-      "id": "TFT4_Yuumi",
+      "id": "Yuumi",
       "cost": 3,
       "traits": [
-        "Set4_Spirit",
-        "Set4_Mystic"
+        "Spirit",
+        "Mystic"
       ]
     },
     {
       "name": "Zed",
-      "id": "TFT4b_Zed",
+      "id": "Zed",
       "cost": 2,
       "traits": [
-        "Set4_Ninja",
-        "Set4_Slayer"
+        "Ninja",
+        "Slayer"
       ]
     },
     {
       "name": "Zilean",
-      "id": "TFT4_Zilean",
+      "id": "Zilean",
       "cost": 5,
       "traits": [
         "Cultist",
-        "Set4_Mystic"
+        "Mystic"
       ]
     }
   ],
@@ -536,17 +536,17 @@
     {
       "id":1,
       "rank":"S",
-      "champions":["TFT4_Aatrox","TFT4_Akali","TFT4_Kennen"]
+      "champions":["Aatrox","Akali","Kennen"]
     },
     {
       "id":2,
       "rank":"B",
-      "champions":["TFT4b_Zed","TFT4_Akali","TFT4_Kennen"]
+      "champions":["Zed","Akali","Kennen"]
     },
     {
       "id":3,
       "rank":"A",
-      "champions":["Aatrox","TFT4_Zilean","TFT4_Yasuo"]
+      "champions":["Aatrox","Zilean","Yasuo"]
     }
   ]
 }
