@@ -532,7 +532,7 @@
       ]
     }
   ],
-  "Traits": [
+  "traits": [
     {
       "key": "Adept",
       "name": "Adept",
