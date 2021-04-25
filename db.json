@@ -1155,6 +1155,15 @@
           ]
         },
         {
+          "name": "Garen",
+          "id": "Garen",
+          "cost": 1,
+          "traits": [
+            "Warlord",
+            "Vanguard"
+          ]
+        },
+        {
           "id": "Akali",
           "cost": 3,
           "traits": [
