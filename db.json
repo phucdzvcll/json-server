@@ -1086,97 +1086,63 @@
           ]
         },
         {
-          "id": "Akali",
-          "cost": 3,
+          "id": "Ornn",
+          "cost": 5,
           "traits": [
-            "Ninja",
-            "Assassin"
+            "Elderwood",
+            "Vanguard",
+            "Blacksmith"
           ]
         },
         {
-          "id": "Kennen",
-          "cost": 3,
-          "traits": [
-            "Ninja",
-            "Keeper"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "rank": "A",
-      "champions": [
-        {
-          "id": "Aatrox",
-          "cost": 4,
+          "id": "Pyke",
+          "cost": 2,
           "traits": [
             "Cultist",
-            "Vanguard"
+            "Assassin",
+            "Slayer"
           ]
         },
         {
-          "id": "Akali",
-          "cost": 3,
+          "id": "Samira",
+          "cost": 5,
           "traits": [
-            "Ninja",
-            "Assassin"
+            "Daredevil",
+            "Sharpshooter",
+            "Slayer"
           ]
         },
         {
-          "id": "Kennen",
-          "cost": 3,
-          "traits": [
-            "Ninja",
-            "Keeper"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "rank": "B",
-      "champions": [
-        {
-          "id": "Aatrox",
+          "id": "Sejuani",
           "cost": 4,
           "traits": [
+            "Fortune",
+            "Vanguard"
+          ]
+        },
+        {
+          "id": "Sivir",
+          "cost": 3,
+          "traits": [
             "Cultist",
-            "Vanguard"
+            "Sharpshooter"
           ]
         },
         {
-          "name": "Garen",
-          "id": "Garen",
-          "cost": 1,
+          "id": "Tryndamere",
+          "cost": 4,
           "traits": [
             "Warlord",
-            "Vanguard"
+            "Slayer",
+            "Duelist"
           ]
         },
         {
-          "name": "Garen",
-          "id": "Garen",
-          "cost": 1,
+          "id": "Yone",
+          "cost": 5,
           "traits": [
-            "Warlord",
-            "Vanguard"
-          ]
-        },
-        {
-          "id": "Akali",
-          "cost": 3,
-          "traits": [
-            "Ninja",
-            "Assassin"
-          ]
-        },
-        {
-          "id": "Kennen",
-          "cost": 3,
-          "traits": [
-            "Ninja",
-            "Keeper"
+            "Exile",
+            "Adept"
           ]
         }
       ]
