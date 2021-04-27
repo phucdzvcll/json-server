@@ -1146,6 +1146,165 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2,
+      "rank": "S",
+      "champions": [
+        {
+          "id": "Aatrox",
+          "cost": 4,
+          "traits": [
+            "Cultist",
+            "Vanguard"
+          ]
+        },
+        {
+          "name": "Elise",
+          "id": "Elise",
+          "cost": 1,
+          "traits": [
+            "Cultist",
+            "Keeper"
+          ]
+        },
+        {
+          "name": "Kalista",
+          "id": "Kalista",
+          "cost": 3,
+          "traits": [
+            "Cultist",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Pyke",
+          "id": "Pyke",
+          "cost": 2,
+          "traits": [
+            "Cultist",
+            "Assassin",
+            "Slayer"
+          ]
+        },
+        {
+          "name": "Sivir",
+          "id": "Sivir",
+          "cost": 3,
+          "traits": [
+            "Cultist",
+            "Sharpshooter"
+          ]
+        },
+        {
+          "name": "Twisted Fate",
+          "id": "TwistedFate",
+          "cost": 1,
+          "traits": [
+            "Cultist",
+            "Mage"
+          ]
+        },
+        {
+          "name": "Vladimir",
+          "id": "Vladimir",
+          "cost": 2,
+          "traits": [
+            "Cultist",
+            "Syphoner"
+          ]
+        },
+        {
+          "name": "Zilean",
+          "id": "Zilean",
+          "cost": 5,
+          "traits": [
+            "Cultist",
+            "Mystic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rank": "A",
+      "champions": [
+        {
+          "name": "Irelia",
+          "id": "Irelia",
+          "cost": 3,
+          "traits": [
+            "Enlightened",
+            "Divine",
+            "Adept"
+          ]
+        },
+        {
+          "name": "Jax",
+          "id": "Jax",
+          "cost": 2,
+          "traits": [
+            "Divine",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Kayle",
+          "id": "Kayle",
+          "cost": 4,
+          "traits": [
+            "Divine",
+            "Executioner"
+          ]
+        },
+        {
+          "name": "Lee Sin",
+          "id": "LeeSin",
+          "cost": 5,
+          "traits": [
+            "Divine",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Shen",
+          "id": "Shen",
+          "cost": 4,
+          "traits": [
+            "Ninja",
+            "Adept",
+            "Mystic"
+          ]
+        },
+        {
+          "name": "Xayah",
+          "id": "Xayah",
+          "cost": 4,
+          "traits": [
+            "Elderwood",
+            "Executioner",
+            "Keeper"
+          ]
+        },
+        {
+          "name": "Yuumi",
+          "id": "Yuumi",
+          "cost": 3,
+          "traits": [
+            "Spirit",
+            "Mystic"
+          ]
+        },
+        {
+          "name": "Kindred",
+          "id": "Kindred",
+          "cost": 3,
+          "traits": [
+            "Spirit",
+            "Executioner"
+          ]
+        }
+      ]
     }
   ]
 }
