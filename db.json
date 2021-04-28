@@ -1305,6 +1305,88 @@
           ]
         }
       ]
+    },{
+      "id": 4,
+      "rank": "S",
+      "champions": [
+        {
+          "name": "Irelia",
+          "id": "Irelia",
+          "cost": 3,
+          "traits": [
+            "Enlightened",
+            "Divine",
+            "Adept"
+          ]
+        },
+        {
+          "name": "Fiora",
+          "isThreeStars":true,
+          "id": "Fiora",
+          "cost": 1,
+          "traits": [
+            "Enlightened",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Jax",
+          "id": "Jax",
+          "isThreeStars":true,
+          "cost": 2,
+          "traits": [
+            "Divine",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Kalista",
+          "id": "Kalista",
+          "cost": 3,
+          "traits": [
+            "Cultist",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Lee Sin",
+          "id": "LeeSin",
+          "cost": 5,
+          "traits": [
+            "Divine",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Shen",
+          "id": "Shen",
+          "cost": 4,
+          "traits": [
+            "Ninja",
+            "Adept",
+            "Mystic"
+          ]
+        },
+        {
+          "name": "Yasuo",
+          "id": "Yasuo",
+          "isThreeStars":true,
+          "cost": 1,
+          "traits": [
+            "Exile",
+            "Duelist"
+          ]
+        },
+        {
+          "name": "Yone",
+          "id": "Yone",
+          "cost": 5,
+          "traits": [
+            "Exile",
+            "Adept"
+          ]
+        }
+      ]
     }
   ]
 }
