@@ -729,7 +729,7 @@
         "Knight"
       ],
       "items": [
-        "Ionic Spark",
+        "IonicSpark",
         "JeweledGauntlet",
         "SunfireCape"
       ]
@@ -826,54 +826,35 @@
   ],
   "traits": [
     {
-      "key": "Adept",
-      "name": "Adept",
-      "description": "Adepts calm the flow of battle, reducing the Attack Speed of all enemies for a few seconds at the start of combat.",
-      "type": "class",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 2,
-          "max": 2
-        },
-        {
-          "style": "gold",
-          "min": 3,
-          "max": 3
-        },
-        {
-          "style": "chromatic",
-          "min": 4
-        }
-      ]
-    },
-    {
       "key": "Assassin",
       "name": "Assassin",
       "innate": "At the start of combat, Assassins leap to the enemy backline.",
-      "description": "Assassins gain bonus Critical Strike Damage and Chance, and their spells can critically strike.",
+      "description": "Assassin's Abilities can critically strike and they gain bonus Critical Strike Chance and bonus Critical Strike Damage.",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
+          "active": "10% Crit Chance; 25% Crit Damage",
           "min": 2,
           "max": 3
         },
         {
           "style": "gold",
+          "active": "10% Crit Chance; 30% Crit Damage",
           "min": 4,
           "max": 5
         },
         {
           "style": "chromatic",
+          "active": "10% Crit Chance; 50% Crit Damage",
           "min": 6
         }
       ]
     },
     {
-      "key": "Blacksmith",
-      "name": "Blacksmith",
-      "description": "After each combat a Blacksmith participates in, they will make progress forging an Artifact. The higher their star-level, the faster they work. Once the Artifact is complete, it will become available to bestow upon an ally. Each ally may only equip one Artifact.",
+      "key": "Caretaker",
+      "name": "Caretaker",
+      "description": "Caretakers deploy with a Baby Dragon that can be placed anywhere on the battlefield. The Baby Dragon gains 80% of its Caretaker's Attack Speed, and restores 80 Mana to the Caretaker upon death.",
       "type": "class",
       "sets": [
         {
@@ -885,57 +866,53 @@
     {
       "key": "Brawler",
       "name": "Brawler",
-      "description": "Brawlers gain bonus Health.",
+      "description": "Brawlers gain additional maximum Health.",
       "type": "class",
       "sets": [
         {
-          "style": "bronze",
+          "style": "silver",
+          "active": "400 Bonus Health",
           "min": 2,
           "max": 3
         },
         {
-          "style": "silver",
-          "min": 4,
-          "max": 5
-        },
-        {
           "style": "gold",
-          "min": 6,
-          "max": 7
-        },
-        {
-          "style": "chromatic",
-          "min": 8
+          "active": "1000 Bonus Health",
+          "min": 4
         }
       ]
     },
     {
-      "key": "Cultist",
-      "name": "Cultist",
-      "description": "Once your team loses a percentage of their Health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up.",
-      "type": "origin",
+      "key": "Cavalier",
+      "name": "Cavalier",
+      "innate": "Innate: Cavaliers charge quickly towards their target whenever they move.",
+      "description": "Cavaliers take reduced damage. At the start of combat and after each charge, this effect is doubled for 4 seconds.",
+      "type": "class",
       "sets": [
         {
           "style": "bronze",
-          "min": 3,
-          "max": 5
+          "active": "15% Damage Reduction",
+          "min": 2,
+          "max": 2
         },
         {
           "style": "gold",
-          "min": 6,
-          "max": 8
+          "active": "25% Damage Reduction",
+          "min": 3,
+          "max": 3
         },
         {
           "style": "chromatic",
-          "min": 9
+          "active": "35% Damage Reduction",
+          "min": 4
         }
       ]
     },
     {
-      "key": "Daredevil",
-      "name": "Daredevil",
-      "description": "Daredevils seek the thrill of battle, dashing after every other attack. After every dash, they shield themselves for a percentage of their max health and their next attack fires shots, gaining Style. At max Style, they cast their spell.",
-      "type": "origin",
+      "key": "Cruel",
+      "name": "Cruel",
+      "description": "A Cruel champion hungers to be alone against exactly 1 enemy left standing.",
+      "type": "class",
       "sets": [
         {
           "style": "gold",
@@ -944,368 +921,306 @@
       ]
     },
     {
-      "key": "Divine",
-      "name": "Divine",
-      "description": "Upon attacking several times or dropping below a percentage of their Health, Divine champions ascend, taking reduced damage and dealing bonus true damage for the rest of combat.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 2,
-          "max": 3
-        },
-        {
-          "style": "silver",
-          "min": 4,
-          "max": 5
-        },
-        {
-          "style": "gold",
-          "min": 6,
-          "max": 7
-        },
-        {
-          "style": "chromatic",
-          "min": 8
-        }
-      ]
-    },
-    {
-      "key": "Dragonsoul",
-      "name": "Dragonsoul",
-      "description": "The first Dragonsoul allies to take damage in combat receive the Dragon's Blessing. While blessed, the unit gains bonus stats, and every 5th attack fires a Dragonsoul blast, dealing a percentage of the target's maximum Health in magic damage. On death, this blessing passes to the closest Dragonsoul ally without a blessing.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 3,
-          "max": 5
-        },
-        {
-          "style": "gold",
-          "min": 6,
-          "max": 8
-        },
-        {
-          "style": "chromatic",
-          "min": 9
-        }
-      ]
-    },
-    {
-      "key": "Duelist",
-      "name": "Duelist",
-      "innate": "Duelists gain bonus Movement Speed.",
-      "description": "Duelists' attacks grant Attack Speed.",
-      "type": "class",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 2,
-          "max": 3
-        },
-        {
-          "style": "silver",
-          "min": 4,
-          "max": 5
-        },
-        {
-          "style": "gold",
-          "min": 6,
-          "max": 7
-        },
-        {
-          "style": "chromatic",
-          "min": 8
-        }
-      ]
-    },
-    {
-      "key": "Elderwood",
-      "name": "Elderwood",
-      "description": "Every two seconds all Elderwood champions grow, gaining bonus stats. This effect stacks up to five times.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 3,
-          "max": 5
-        },
-        {
-          "style": "gold",
-          "min": 6,
-          "max": 8
-        },
-        {
-          "style": "chromatic",
-          "min": 9
-        }
-      ]
-    },
-    {
-      "key": "Emperor",
-      "name": "Emperor",
-      "description": "The Emperor deploys with two Sand Guards who can be placed anywhere on the battlefield. They do not move or attack, and die when their Emperor does.",
+      "key": "God-King",
+      "name": "God-King",
+      "description": "God-Kings deal 20% bonus damage to enemies who have at least one of their Rival Traits. This effect is only active when you have exactly 1 unique God-King.",
       "type": "class",
       "sets": [
         {
           "style": "gold",
-          "min": 1,
-          "max": 1
+          "min": 1
         }
       ]
     },
     {
-      "key": "Enlightened",
-      "name": "Enlightened",
-      "description": "Enlightened champions generate more Mana.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 2,
-          "max": 3
-        },
-        {
-          "style": "silver",
-          "min": 4,
-          "max": 5
-        },
-        {
-          "style": "gold",
-          "min": 6
-        }
-      ]
-    },
-    {
-      "key": "Executioner",
-      "name": "Executioner",
-      "description": "Executioner attacks and spells always critically hit targets beneath a certain Health threshold.",
+      "key": "Invoker",
+      "name": "Invoker",
+      "description": "All allies gain extra Mana from their attacks.",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
+          "active": "+3 Mana",
           "min": 2,
-          "max": 2
-        },
-        {
-          "style": "gold",
-          "min": 3,
           "max": 3
         },
         {
-          "style": "chromatic",
+          "style": "gold",
+          "active": "+6 Mana",
           "min": 4
         }
       ]
     },
     {
-      "key": "Exile",
-      "name": "Exile",
-      "description": "If an Exile has no adjacent allies at the start of combat, they gain a shield equal to a percentage of their maximum health and Lifesteal if there are two or more Exiles.",
-      "type": "origin",
+      "key": "Knight",
+      "name": "Knight",
+      "description": "All allies block a flat amount of damage from all sources.",
+      "type": "class",
       "sets": [
         {
           "style": "bronze",
-          "min": 1,
-          "max": 1
+          "active": "15 Damage Blocked",
+          "min": 2,
+          "max": 3
         },
         {
-          "style": "gold",
-          "min": 2
-        }
-      ]
-    },
-    {
-      "key": "Fabled",
-      "name": "Fabled",
-      "description": "Fabled champions' abilities are empowered from tales of their past valor.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "gold",
-          "min": 3
-        }
-      ]
-    },
-    {
-      "key": "Fortune",
-      "name": "Fortune",
-      "description": "Winning combat against a player will give bonus orbs. The longer you've gone without an orb, the bigger the payout! Wins give an extra bonus orb with rare loot if there are size or more Fortune!",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "gold",
-          "min": 3,
+          "style": "silver",
+          "active": "40 Damage Blocked",
+          "min": 4,
           "max": 5
         },
         {
-          "style": "chromatic",
+          "style": "gold",
+          "active": "75 Damage Blocked",
           "min": 6
         }
       ]
     },
     {
-      "key": "Keeper",
-      "name": "Keeper",
-      "description": "At the start of combat, Keepers grant themselves and all nearby allies a shield for several seconds. This shield is stronger on Keepers.",
+      "key": "Legionnaire",
+      "name": "Legionnaire",
+      "description": "Legionnaires gain bonus Attack Speed, and their first attack after casting an Ability heals them for 50% of the damage dealt.",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
+          "active": "25% Attack Speed",
           "min": 2,
           "max": 3
         },
         {
           "style": "gold",
+          "active": "60% Attack Speed",
           "min": 4,
           "max": 5
         },
         {
           "style": "chromatic",
-          "min": 6
-        }
-      ]
-    },
-    {
-      "key": "Mage",
-      "name": "Mage",
-      "description": "Mages cast twice and have modified Spell Power.",
-      "type": "class",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 3,
-          "max": 4
-        },
-        {
-          "style": "gold",
-          "min": 5,
-          "max": 6
+          "active": "150% Attack Speed",
+          "min": 6,
+          "max": 7
         },
         {
           "style": "chromatic",
-          "min": 7
+          "active": "250% Attack Speed",
+          "min": 8
         }
       ]
     },
     {
       "key": "Mystic",
       "name": "Mystic",
-      "description": "All allies gain Magic Resistance.",
+      "description": "All allies gain Magic Resist.",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
+          "active": "40 Magic Resist",
+          "min": 2,
+          "max": 2
+        },
+        {
+          "style": "silver",
+          "active": "100 Magic Resist",
+          "min": 3,
+          "max": 3
+        },
+        {
+          "style": "chromatic",
+          "active": "180 Magic Resist",
+          "min": 4
+        }
+      ]
+    },
+    {
+      "key": "Ranger",
+      "name": "Ranger",
+      "description": "Rangers gain bonus Attack Speed every 4 seconds, and lose it every 4 seconds, This effect begins 4 seconds after combat starts.",
+      "type": "class",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "70% Attack Speed",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "style": "chromatic",
+          "active": "180% Attack Speed",
+          "min": 4
+        }
+      ]
+    },
+    {
+      "key": "Renewer",
+      "name": "Renewer",
+      "description": "Skirmishers gain a shield at the start of combat, and bonus Attack Damage each second.",
+      "type": "class",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "3% Health or 3% Mana",
           "min": 2,
           "max": 3
         },
         {
           "style": "gold",
-          "min": 4,
-          "max": 5
-        },
-        {
-          "style": "chromatic",
-          "min": 6
+          "active": "6% Health or 6% Mana",
+          "min": 4
         }
       ]
     },
     {
-      "key": "Ninja",
-      "name": "Ninja",
-      "description": "Ninjas gain bonus Attack Damage and Spell Power. This trait is only active when you have exactly 1 or 4 unique Ninjas.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 1,
-          "max": 1
-        },
-        {
-          "style": "gold",
-          "min": 4,
-          "max": 4
-        }
-      ]
-    },
-    {
-      "key": "Sharpshooter",
-      "name": "Sharpshooter",
-      "description": "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage.",
+      "key": "Skirmisher",
+      "name": "Skirmisher",
+      "description": "Skirmishers gain a shield at the start of combat, and bonus Attack Damage each second.",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
-          "min": 2,
-          "max": 3
-        },
-        {
-          "style": "gold",
-          "min": 4,
-          "max": 5
-        },
-        {
-          "style": "chromatic",
-          "min": 6
-        }
-      ]
-    },
-    {
-      "key": "Slayer",
-      "name": "Slayer",
-      "description": "Slayers gain Lifesteal that gets stronger as their own Health decreases, and deal bonus damage that scales up based on their target's missing Health.",
-      "type": "class",
-      "sets": [
-        {
-          "style": "bronze",
+          "active": "300 Shield and +3 Attack Damage",
           "min": 3,
           "max": 5
         },
         {
           "style": "gold",
+          "active": "600 Shield and +6 Attack Damage",
           "min": 6
         }
       ]
     },
     {
-      "key": "Spirit",
-      "name": "Spirit",
-      "description": "The first time a Spirit casts their spell, all allies gain Attack Speed based on the spell's mana cost.",
-      "type": "origin",
-      "sets": [
-        {
-          "style": "bronze",
-          "min": 2,
-          "max": 3
-        },
-        {
-          "style": "gold",
-          "min": 4
-        }
-      ]
-    },
-    {
-      "key": "Syphoner",
-      "name": "Syphoner",
-      "description": "All allies heal for some of the damage they deal with spells and attacks.",
+      "key": "Spellweaver",
+      "name": "Spellweaver",
+      "description": "Spellweavers have bonus Ability Power, which increases whenever any champion uses an ability (up to 10 times).",
       "type": "class",
       "sets": [
         {
           "style": "bronze",
+          "active": "20% Ability Power, 2% bonus Ability Power",
           "min": 2,
           "max": 3
         },
         {
           "style": "gold",
+          "active": "60% Ability Power, 6% bonus Ability Power",
           "min": 4
         }
       ]
     },
     {
-      "key": "Boss",
-      "name": "The Boss",
-      "description": "When The Boss first drops below a percentage of his Health, he leaves combat to start doing sit-ups. Each sit-up restores a percentage of his maximum Health and gives him Attack and Movement Speed. If he reaches full Health he returns to combat Pumped Up: all of his attacks and spells deal true damage. If all of his allies die, he will immediately return to combat.",
+      "key": "Abomination",
+      "name": "Abomination",
+      "innate": "When 3 allied champions have died, the Monstrosity will rise from its grave. The Monstrosity receives bonus Health and Attack Damage based on allied Abomination champions' star levels.",
+      "description": "The 3 Abomination champions nearest the grave will also grant the Monstrosity a random copy of one of their items when combat starts.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "1000 Health, 100 Attack Damage",
+          "min": 3,
+          "max": 3
+        },
+        {
+          "style": "gold",
+          "active": "1300 Health, 130 Attack Damage",
+          "min": 4,
+          "max": 4
+        },
+        {
+          "style": "chromatic",
+          "active": "1600 Health, 160 Attack Damage",
+          "min": 5
+        }
+      ]
+    },
+    {
+      "key": "Coven",
+      "name": "Coven",
+      "description": "At the start of combat, the champion nearest to the center of your Coven champions is chosen as the Coven Leader, gaining 60% bonus Ability Power.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "Each time a Coven champion casts, 15% of the cost is bestowed upon the Coven Leader as Mana.",
+          "min": 3
+        }
+      ]
+    },
+    {
+      "key": "Dawnbringer",
+      "name": "Dawnbringer",
+      "description": "Dawnbringers rapidly heal some of their maximum Health the first time they drop below 50%. When this occurs, all allied Dawnbringers gain 10% bonus damage.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "30% of Maximum Health",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "style": "silver",
+          "active": "60% of Maximum Health",
+          "min": 4,
+          "max": 5
+        },
+        {
+          "style": "gold",
+          "active": "90% of Maximum Health",
+          "min": 6,
+          "max": 7
+        },
+        {
+          "style": "chromatic",
+          "active": "130% of Maximum Health",
+          "min": 8
+        }
+      ]
+    },
+    {
+      "key": "Draconic",
+      "name": "Draconic",
+      "description": "In Hyper Roll, dragon eggs hatch a lot faster!",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "At the end of each player combat, gain a dragon egg on your bench. The bigger the egg, the longer it takes to hatch, and the rarer the reward.",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "style": "chromatic",
+          "active": "Dragon eggs are golden! Golden eggs hatch into even rarer loot.",
+          "min": 5
+        }
+      ]
+    },
+    {
+      "key": "Dragonslayer",
+      "name": "Dragonslayer",
+      "innate": "Dragonslayers gain bonus Ability Power.",
+      "description": "After the first Dragonslayer ally scores a takedown on an enemy with at least 1400 maximum Health, all allies gain additional Ability Power for the rest of the round.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "30% Ability Power for Dragonslayers, 20% for team",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "style": "gold",
+          "active": "70% Ability Power for Dragonslayers, 50% for team",
+          "min": 4
+        }
+      ]
+    },
+    {
+      "key": "Eternal",
+      "name": "Eternal",
+      "description": "Wolf separates from Lamb, and can be placed anywhere on the battlefield. Wolf does not count toward your team size, and receives all of Lamb's stat bonuses.",
       "type": "origin",
       "sets": [
         {
@@ -1315,51 +1230,166 @@
       ]
     },
     {
-      "key": "Vanguard",
-      "name": "Vanguard",
-      "description": "Vanguard champions gain bonus Armor.",
-      "type": "class",
+      "key": "Forgotten",
+      "name": "Forgotten",
+      "description": "Forgotten champions have bonus Attack Damage and Ability Power. Each Shadow item held by a Forgotten champion increases these bonuses by 10% on all Forgotten champions, stacking up to 4 times.",
+      "type": "origin",
       "sets": [
         {
           "style": "bronze",
+          "active": "30 Attack Damage and Ability Power",
+          "min": 3,
+          "max": 4
+        },
+        {
+          "style": "gold",
+          "active": "80 Attack Damage and Ability Power",
+          "min": 5,
+          "max": 8
+        },
+        {
+          "style": "chromatic",
+          "active": "140 Attack Damage and Ability Power",
+          "min": 9
+        }
+      ]
+    },
+    {
+      "key": "Hellion",
+      "name": "Hellion",
+      "innate": "Hellions gain Attack Speed.",
+      "description": "Whenever a Hellion dies, a Doppelhellion (a one less star copy) will leap from the Hellion portal and join the fight!",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "5% Attack Speed",
+          "min": 3,
+          "max": 4
+        },
+        {
+          "style": "gold",
+          "active": "50% Attack Speed",
+          "min": 5,
+          "max": 6
+        },
+        {
+          "style": "chromatic",
+          "active": "125% Attack Speed",
+          "min": 7
+        }
+      ]
+    },
+    {
+      "key": "Ironclad",
+      "name": "Ironclad",
+      "description": "All allies gain Armor.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "40 Armor",
+          "min": 2,
+          "max": 2
+        },
+        {
+          "style": "gold",
+          "active": "90 Armor",
+          "min": 3
+        }
+      ]
+    },
+    {
+      "key": "Nightbringer",
+      "name": "Nightbringer",
+      "description": "Nightbringers gain a shield for 8 seconds equal to a percent of their maximum Health the first time they drop below 50%. When this occurs, that Nightbringer gains bonus damage.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "30% Shield, 20% Damage",
           "min": 2,
           "max": 3
         },
         {
           "style": "silver",
+          "active": "60% Shield, 30% Damage",
           "min": 4,
           "max": 5
         },
         {
           "style": "gold",
+          "active": "90% Shield, 40% Damage",
           "min": 6,
           "max": 7
         },
         {
           "style": "chromatic",
+          "active": "140% Shield, 50% Damage",
           "min": 8
         }
       ]
     },
     {
-      "key": "Warlord",
-      "name": "Warlord",
-      "description": "Warlords have bonus Health and Spell Power. Each victorious combat they participate in increases the bonus.",
+      "key": "Redeemed",
+      "name": "Redeemed",
+      "description": "Redeemed champions have increased Armor, Magic Resist, and Ability Power. When they die, their bonus is split among remaining Redeemed allies.",
       "type": "origin",
       "sets": [
         {
           "style": "bronze",
+          "active": "30 Armor & Magic Resist, 30% Ability Power",
           "min": 3,
           "max": 5
         },
         {
-          "style": "gold",
+          "style": "silver",
+          "active": "50 Armor & Magic Resist, 50% Ability Power",
           "min": 6,
           "max": 8
         },
         {
-          "style": "chromatic",
+          "style": "gold",
+          "active": "70 Armor & Magic Resist, 70% Ability Power",
           "min": 9
+        }
+      ]
+    },
+    {
+      "key": "Revenant",
+      "name": "Revenant",
+      "description": "Revenants revive after their first death each combat. Once revived, they take and deal 30% increased damage.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "Revive with 30% Health",
+          "min": 2,
+          "max": 2
+        },
+        {
+          "style": "gold",
+          "active": "Revive with 70% Health",
+          "min": 3
+        }
+      ]
+    },
+    {
+      "key": "Verdant",
+      "name": "Verdant",
+      "description": "Champions that start combat adjacent to at least one Verdant ally are immune to crowd control for a duration.",
+      "type": "origin",
+      "sets": [
+        {
+          "style": "bronze",
+          "active": "4 seconds",
+          "min": 2,
+          "max": 2
+        },
+        {
+          "style": "gold",
+          "active": "4 seconds",
+          "min": 3
         }
       ]
     }
@@ -1692,315 +1722,97 @@
       "rank": "S",
       "champions": [
         {
-          "id": "Aatrox",
-          "cost": 4,
-          "traits": [
-            "Cultist",
-            "Vanguard"
-          ]
-        },
-        {
-          "id": "Ornn",
+          "name": "Garen",
+          "id": "Garen",
           "cost": 5,
           "traits": [
-            "Elderwood",
-            "Vanguard",
-            "Blacksmith"
-          ]
-        },
-        {
-          "id": "Pyke",
-          "cost": 2,
-          "traits": [
-            "Cultist",
-            "Assassin",
-            "Slayer"
-          ]
-        },
-        {
-          "id": "Samira",
-          "cost": 5,
-          "traits": [
-            "Daredevil",
-            "Sharpshooter",
-            "Slayer"
-          ]
-        },
-        {
-          "id": "Sejuani",
-          "cost": 4,
-          "traits": [
-            "Fortune",
-            "Vanguard"
-          ]
-        },
-        {
-          "id": "Sivir",
-          "cost": 3,
-          "traits": [
-            "Cultist",
-            "Sharpshooter"
-          ]
-        },
-        {
-          "id": "Tryndamere",
-          "cost": 4,
-          "traits": [
-            "Warlord",
-            "Slayer",
-            "Duelist"
-          ]
-        },
-        {
-          "id": "Yone",
-          "cost": 5,
-          "traits": [
-            "Exile",
-            "Adept"
+            "Nightbringer",
+            "God-King",
+            "Knight"
+          ],
+          "items": [
+            "TitansResolve"
           ]
         }
       ]
     },
     {
-      "id": 2,
-      "rank": "C",
-      "champions": [
-        {
-          "id": "Aatrox",
-          "cost": 4,
-          "traits": [
-            "Cultist",
-            "Vanguard"
-          ]
-        },
-        {
-          "name": "Elise",
-          "id": "Elise",
-          "cost": 1,
-          "traits": [
-            "Cultist",
-            "Keeper"
-          ]
-        },
-        {
-          "name": "Kalista",
-          "id": "Kalista",
-          "cost": 3,
-          "traits": [
-            "Cultist",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Pyke",
-          "id": "Pyke",
-          "cost": 2,
-          "traits": [
-            "Cultist",
-            "Assassin",
-            "Slayer"
-          ]
-        },
-        {
-          "name": "Sivir",
-          "id": "Sivir",
-          "cost": 3,
-          "traits": [
-            "Cultist",
-            "Sharpshooter"
-          ]
-        },
-        {
-          "name": "Twisted Fate",
-          "id": "TwistedFate",
-          "cost": 1,
-          "traits": [
-            "Cultist",
-            "Mage"
-          ]
-        },
-        {
-          "name": "Vladimir",
-          "id": "Vladimir",
-          "cost": 2,
-          "traits": [
-            "Cultist",
-            "Syphoner"
-          ]
-        },
-        {
-          "name": "Zilean",
-          "id": "Zilean",
-          "cost": 5,
-          "traits": [
-            "Cultist",
-            "Mystic"
-          ]
-        }
+      "name": "Gragas",
+      "id": "Gragas",
+      "cost": 1,
+      "traits": [
+        "Dawnbringer",
+        "Brawler"
       ]
     },
     {
-      "id": 3,
-      "rank": "A",
-      "champions": [
-        {
-          "name": "Irelia",
-          "id": "Irelia",
-          "cost": 3,
-          "traits": [
-            "Enlightened",
-            "Divine",
-            "Adept"
-          ]
-        },
-        {
-          "name": "Jax",
-          "id": "Jax",
-          "cost": 2,
-          "traits": [
-            "Divine",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Kayle",
-          "id": "Kayle",
-          "cost": 4,
-          "traits": [
-            "Divine",
-            "Executioner"
-          ]
-        },
-        {
-          "name": "Lee Sin",
-          "id": "LeeSin",
-          "cost": 5,
-          "traits": [
-            "Divine",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Shen",
-          "id": "Shen",
-          "cost": 4,
-          "traits": [
-            "Ninja",
-            "Adept",
-            "Mystic"
-          ]
-        },
-        {
-          "name": "Xayah",
-          "id": "Xayah",
-          "cost": 4,
-          "traits": [
-            "Elderwood",
-            "Executioner",
-            "Keeper"
-          ]
-        },
-        {
-          "name": "Yuumi",
-          "id": "Yuumi",
-          "cost": 3,
-          "traits": [
-            "Spirit",
-            "Mystic"
-          ]
-        },
-        {
-          "name": "Kindred",
-          "id": "Kindred",
-          "cost": 3,
-          "traits": [
-            "Spirit",
-            "Executioner"
-          ]
-        }
+      "name": "Ivern",
+      "id": "Ivern",
+      "cost": 4,
+      "traits": [
+        "Revenant",
+        "Revenant"
       ]
     },
     {
-      "id": 4,
-      "rank": "S",
-      "champions": [
-        {
-          "name": "Irelia",
-          "id": "Irelia",
-          "cost": 3,
-          "traits": [
-            "Enlightened",
-            "Divine",
-            "Adept"
-          ]
-        },
-        {
-          "name": "Fiora",
-          "isThreeStars": true,
-          "id": "Fiora",
-          "cost": 1,
-          "traits": [
-            "Enlightened",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Jax",
-          "id": "Jax",
-          "isThreeStars": true,
-          "cost": 2,
-          "traits": [
-            "Divine",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Kalista",
-          "id": "Kalista",
-          "cost": 3,
-          "traits": [
-            "Cultist",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Lee Sin",
-          "id": "LeeSin",
-          "cost": 5,
-          "traits": [
-            "Divine",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Shen",
-          "id": "Shen",
-          "cost": 4,
-          "traits": [
-            "Ninja",
-            "Adept",
-            "Mystic"
-          ]
-        },
-        {
-          "name": "Yasuo",
-          "id": "Yasuo",
-          "isThreeStars": true,
-          "cost": 1,
-          "traits": [
-            "Exile",
-            "Duelist"
-          ]
-        },
-        {
-          "name": "Yone",
-          "id": "Yone",
-          "cost": 5,
-          "traits": [
-            "Exile",
-            "Adept"
-          ]
-        }
+      "name": "Karma",
+      "id": "Karma",
+      "cost": 4,
+      "traits": [
+        "Dawnbringer",
+        "Invoker"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Nidalee",
+      "id": "Nidalee",
+      "cost": 3,
+      "traits": [
+        "Dawnbringer",
+        "Skirmisher"
+      ]
+    },
+    {
+      "name": "Riven",
+      "id": "Riven",
+      "cost": 3,
+      "traits": [
+        "Dawnbringer",
+        "Legionnaire"
+      ],
+      "items": [
+        "GuardianAngel",
+        "HandofJustice",
+        "TitansResolve"
+      ]
+    },
+    {
+      "name": "Soraka",
+      "id": "Soraka",
+      "cost": 2,
+      "traits": [
+        "Dawnbringer",
+        "Renewer"
+      ]
+    },
+    {
+      "name": "Volibear",
+      "id": "Volibear",
+      "cost": 5,
+      "traits": [
+        "Revenant",
+        "Brawler"
+      ],
+      "especiallyItem":"DawnbringerEmblem",
+      "items": [
+        "TitansResolve",
+        "DragonsClaw",
+        "DawnbringerEmblem"
       ]
     }
   ]
