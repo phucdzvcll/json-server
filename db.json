@@ -1806,7 +1806,7 @@
             "Revenant",
             "Brawler"
           ],
-          "especiallyItem":"DawnbringerEmblem",
+          "especiallyItem":["Dawnbringer"],
           "items": [
             "TitansResolve",
             "DragonsClaw",
