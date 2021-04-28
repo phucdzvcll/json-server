@@ -3,247 +3,239 @@
     {
       "name": "Aatrox",
       "id": "Aatrox",
-      "cost": 4,
-      "traits": [
-        "Cultist",
-        "Vanguard"
-      ]
-    },
-    {
-      "name": "Akali",
-      "id": "Akali",
-      "cost": 3,
-      "traits": [
-        "Ninja",
-        "Assassin"
-      ]
-    },
-    {
-      "name": "Annie",
-      "id": "Annie",
-      "cost": 2,
-      "traits": [
-        "Fortune",
-        "Mage"
-      ]
-    },
-    {
-      "name": "Aurelion Sol",
-      "id": "AurelionSol",
-      "cost": 4,
-      "traits": [
-        "Dragonsoul",
-        "Mage"
-      ]
-    },
-    {
-      "name": "Azir",
-      "id": "Azir",
-      "cost": 5,
-      "traits": [
-        "Warlord",
-        "Keeper",
-        "Emperor"
-      ]
-    },
-    {
-      "name": "Brand",
-      "id": "Brand",
       "cost": 1,
       "traits": [
-        "Dragonsoul",
-        "Mage"
+        "Redeemed",
+        "Legionnaire"
+      ],
+      "items": [
+        "Deathblade",
+        "GuardianAngel",
+        "HandofJustice"
       ]
     },
     {
-      "name": "Braum",
-      "id": "Braum",
-      "cost": 2,
+      "name": "Gragas",
+      "id": "Gragas",
+      "cost": 1,
       "traits": [
-        "Dragonsoul",
-        "Vanguard"
-      ]
-    },
-    {
-      "name": "Cho'Gath",
-      "id": "ChoGath",
-      "cost": 4,
-      "traits": [
-        "Fabled",
+        "Dawnbringer",
         "Brawler"
-      ]
-    },
-    {
-      "name": "Darius",
-      "id": "Darius",
-      "cost": 3,
-      "traits": [
-        "Fortune",
-        "Slayer"
-      ]
-    },
-    {
-      "name": "Diana",
-      "id": "Diana",
-      "cost": 1,
-      "traits": [
-        "Spirit",
-        "Assassin"
-      ]
-    },
-    {
-      "name": "Elise",
-      "id": "Elise",
-      "cost": 1,
-      "traits": [
-        "Cultist",
-        "Keeper"
-      ]
-    },
-    {
-      "name": "Fiora",
-      "id": "Fiora",
-      "cost": 1,
-      "traits": [
-        "Enlightened",
-        "Duelist"
-      ]
-    },
-    {
-      "name": "Garen",
-      "id": "Garen",
-      "cost": 1,
-      "traits": [
-        "Warlord",
-        "Vanguard"
-      ]
-    },
-    {
-      "name": "Irelia",
-      "id": "Irelia",
-      "cost": 3,
-      "traits": [
-        "Enlightened",
-        "Divine",
-        "Adept"
-      ]
-    },
-    {
-      "name": "Janna",
-      "id": "Janna",
-      "cost": 2,
-      "traits": [
-        "Enlightened",
-        "Mystic"
-      ]
-    },
-    {
-      "name": "Jarvan IV",
-      "id": "JarvanIV",
-      "cost": 2,
-      "traits": [
-        "Warlord",
-        "Keeper"
-      ]
-    },
-    {
-      "name": "Jax",
-      "id": "Jax",
-      "cost": 2,
-      "traits": [
-        "Divine",
-        "Duelist"
+      ],
+      "items": [
+        "DragonsClaw",
+        "GargoyleStoneplate",
+        "SunfireCape"
       ]
     },
     {
       "name": "Kalista",
       "id": "Kalista",
-      "cost": 3,
+      "cost": 1,
       "traits": [
-        "Cultist",
-        "Duelist"
+        "Abomination",
+        "Legionnaire"
+      ],
+      "items": [
+        "Bloodthirster",
+        "Deathblade",
+        "GuinsoosRageblade"
       ]
     },
     {
-      "name": "Katarina",
-      "id": "Katarina",
-      "cost": 3,
+      "name": "Khazix",
+      "id": "Khazix",
+      "cost": 1,
       "traits": [
-        "Warlord",
-        "Fortune",
+        "Dawnbringer",
         "Assassin"
+      ],
+      "items": [
+        "GuardianAngel",
+        "HandofJustice",
+        "InfinityEdge"
       ]
     },
     {
-      "name": "Kayle",
-      "id": "Kayle",
-      "cost": 4,
+      "name": "Kled",
+      "id": "Kled",
+      "cost": 1,
       "traits": [
-        "Divine",
-        "Executioner"
+        "Hellion",
+        "Cavalier"
+      ],
+      "items": [
+        "BrambleVest",
+        "SunfireCape",
+        "TitansResolve"
+      ]
+    },
+    {
+      "name": "Leona",
+      "id": "Leona",
+      "cost": 1,
+      "traits": [
+        "Redeemed",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Lissandra",
+      "id": "Lissandra",
+      "cost": 1,
+      "traits": [
+        "Coven",
+        "Renewer"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Poppy",
+      "id": "Poppy",
+      "cost": 1,
+      "traits": [
+        "Hellion",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Udyr",
+      "id": "Udyr",
+      "cost": 1,
+      "traits": [
+        "Draconic",
+        "Skirmisher"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Vayne",
+      "id": "Vayne",
+      "cost": 1,
+      "traits": [
+        "Forgotten",
+        "Ranger"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "RunaansHurricane",
+        "SacrificialGauntlet"
+      ]
+    },
+    {
+      "name": "Vladimir",
+      "id": "Vladimir",
+      "cost": 1,
+      "traits": [
+        "Nightbringer",
+        "Renewer"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Zephyr"
+      ]
+    },
+    {
+      "name": "Warwick",
+      "id": "Warwick",
+      "cost": 1,
+      "traits": [
+        "Forgotten",
+        "Brawler"
+      ],
+      "items": [
+        "ArchangelsStaff",
+        "HandofJustice",
+        "Quicksilver"
+      ]
+    },
+    {
+      "name": "Ziggs",
+      "id": "Ziggs",
+      "cost": 1,
+      "traits": [
+        "Hellion",
+        "Spellweaver"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Brand",
+      "id": "Brand",
+      "cost": 2,
+      "traits": [
+        "Abomination",
+        "Spellweaver"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Hecarim",
+      "id": "Hecarim",
+      "cost": 2,
+      "traits": [
+        "Forgotten",
+        "Cavalier"
+      ],
+      "items": [
+        "DragonsClaw",
+        "IonicSpark",
+        "SunfireCape"
       ]
     },
     {
       "name": "Kennen",
       "id": "Kennen",
-      "cost": 3,
-      "traits": [
-        "Ninja",
-        "Keeper"
-      ]
-    },
-    {
-      "name": "Kindred",
-      "id": "Kindred",
-      "cost": 3,
-      "traits": [
-        "Spirit",
-        "Executioner"
-      ]
-    },
-    {
-      "name": "Lee Sin",
-      "id": "LeeSin",
-      "cost": 5,
-      "traits": [
-        "Divine",
-        "Duelist"
-      ]
-    },
-    {
-      "name": "Lulu",
-      "id": "Lulu",
       "cost": 2,
       "traits": [
-        "Elderwood",
-        "Mage"
+        "Hellion",
+        "Skirmisher"
+      ],
+      "items": [
+        "FrozenHeart",
+        "GuardianAngel",
+        "Morellonomicon"
       ]
     },
     {
-      "name": "Maokai",
-      "id": "Maokai",
-      "cost": 1,
+      "name": "Leblanc",
+      "id": "Leblanc",
+      "cost": 2,
       "traits": [
-        "Elderwood",
-        "Brawler"
-      ]
-    },
-    {
-      "name": "Morgana",
-      "id": "Morgana",
-      "cost": 4,
-      "traits": [
-        "Enlightened",
-        "Syphoner"
-      ]
-    },
-    {
-      "name": "Nasus",
-      "id": "Nasus",
-      "cost": 1,
-      "traits": [
-        "Divine",
-        "Syphoner"
+        "Coven",
+        "Assassin"
+      ],
+      "items": [
+        "VeryDarkBlueBuff",
+        "InfinityEdge",
+        "JeweledGauntlet"
       ]
     },
     {
@@ -251,284 +243,584 @@
       "id": "Nautilus",
       "cost": 2,
       "traits": [
-        "Fabled",
-        "Vanguard"
-      ]
-    },
-    {
-      "name": "Neeko",
-      "id": "Neeko",
-      "cost": 3,
-      "traits": [
-        "Fabled",
-        "Mystic"
-      ]
-    },
-    {
-      "name": "Nidalee",
-      "id": "Nidalee",
-      "cost": 1,
-      "traits": [
-        "Warlord",
-        "Sharpshooter"
-      ]
-    },
-    {
-      "name": "Nunu & Willump",
-      "id": "Nunu",
-      "cost": 3,
-      "traits": [
-        "Elderwood",
-        "Brawler"
-      ]
-    },
-    {
-      "name": "Olaf",
-      "id": "Olaf",
-      "cost": 4,
-      "traits": [
-        "Dragonsoul",
-        "Slayer"
-      ]
-    },
-    {
-      "name": "Ornn",
-      "id": "Ornn",
-      "cost": 5,
-      "traits": [
-        "Elderwood",
-        "Vanguard",
-        "Blacksmith"
-      ]
-    },
-    {
-      "name": "Pyke",
-      "id": "Pyke",
-      "cost": 2,
-      "traits": [
-        "Cultist",
-        "Assassin",
-        "Slayer"
-      ]
-    },
-    {
-      "name": "Rakan",
-      "id": "Rakan",
-      "cost": 2,
-      "traits": [
-        "Elderwood",
-        "Keeper"
-      ]
-    },
-    {
-      "name": "Samira",
-      "id": "Samira",
-      "cost": 5,
-      "traits": [
-        "Daredevil",
-        "Sharpshooter",
-        "Slayer"
+        "Ironclad",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
       ]
     },
     {
       "name": "Sejuani",
       "id": "Sejuani",
-      "cost": 4,
+      "cost": 2,
       "traits": [
-        "Fortune",
-        "Vanguard"
+        "Nightbringer",
+        "Cavalier"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
       ]
     },
     {
       "name": "Sett",
       "id": "Sett",
-      "cost": 5,
+      "cost": 2,
       "traits": [
-        "Boss",
+        "Draconic",
         "Brawler"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
       ]
     },
     {
-      "name": "Shen",
-      "id": "Shen",
-      "cost": 4,
+      "name": "Soraka",
+      "id": "Soraka",
+      "cost": 2,
       "traits": [
-        "Ninja",
-        "Adept",
-        "Mystic"
+        "Dawnbringer",
+        "Renewer"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Zephyr"
       ]
     },
     {
-      "name": "Shyvana",
-      "id": "Shyvana",
+      "name": "Syndra",
+      "id": "Syndra",
+      "cost": 2,
+      "traits": [
+        "Redeemed",
+        "Invoker"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Thresh",
+      "id": "Thresh",
+      "cost": 2,
+      "traits": [
+        "Forgotten",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Trundle",
+      "id": "Trundle",
+      "cost": 2,
+      "traits": [
+        "Dragonslayer",
+        "Skirmisher"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Varus",
+      "id": "Varus",
+      "cost": 2,
+      "traits": [
+        "Redeemed",
+        "Ranger"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "JeweledGauntlet",
+        "SpearofShojin"
+      ]
+    },
+    {
+      "name": "Viktor",
+      "id": "Viktor",
+      "cost": 2,
+      "traits": [
+        "Forgotten",
+        "Spellweaver"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Ashe",
+      "id": "Ashe",
       "cost": 3,
       "traits": [
-        "Dragonsoul",
-        "Brawler"
+        "Draconic",
+        "Verdant",
+        "Ranger"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "JeweledGauntlet",
+        "SpearofShojin"
       ]
     },
     {
-      "name": "Sivir",
-      "id": "Sivir",
+      "name": "Katarina",
+      "id": "Katarina",
       "cost": 3,
       "traits": [
-        "Cultist",
-        "Sharpshooter"
-      ]
-    },
-    {
-      "name": "Swain",
-      "id": "Swain",
-      "cost": 5,
-      "traits": [
-        "Dragonsoul",
-        "Syphoner"
-      ]
-    },
-    {
-      "name": "Tahm Kench",
-      "id": "TahmKench",
-      "cost": 1,
-      "traits": [
-        "Fortune",
-        "Brawler"
-      ]
-    },
-    {
-      "name": "Talon",
-      "id": "Talon",
-      "cost": 4,
-      "traits": [
-        "Enlightened",
+        "Forgotten",
         "Assassin"
+      ],
+      "items": [
+        "BlueBuff",
+        "InfinityEdge",
+        "JeweledGauntlet"
       ]
     },
     {
-      "name": "Teemo",
-      "id": "Teemo",
-      "cost": 2,
-      "traits": [
-        "Spirit",
-        "Sharpshooter"
-      ]
-    },
-    {
-      "name": "Tristana",
-      "id": "Tristana",
-      "cost": 1,
-      "traits": [
-        "Dragonsoul",
-        "Sharpshooter"
-      ]
-    },
-    {
-      "name": "Tryndamere",
-      "id": "Tryndamere",
-      "cost": 4,
-      "traits": [
-        "Warlord",
-        "Slayer",
-        "Duelist"
-      ]
-    },
-    {
-      "name": "Twisted Fate",
-      "id": "TwistedFate",
-      "cost": 1,
-      "traits": [
-        "Cultist",
-        "Mage"
-      ]
-    },
-    {
-      "name": "Veigar",
-      "id": "Veigar",
+      "name": "Lee Sin",
+      "id": "LeeSin",
       "cost": 3,
       "traits": [
-        "Elderwood",
-        "Mage"
+        "Nightbringer",
+        "Skirmisher"
+      ],
+      "items": [
+        "BrambleVest",
+        "SunfireCape",
+        "TitansResolve"
       ]
     },
     {
-      "name": "Vi",
-      "id": "Vi",
-      "cost": 2,
+      "name": "Lulu",
+      "id": "Lulu",
+      "cost": 3,
       "traits": [
-        "Warlord",
+        "Hellion",
+        "Mystic"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Zephyr"
+      ]
+    },
+    {
+      "name": "Lux",
+      "id": "Lux",
+      "cost": 3,
+      "traits": [
+        "Redeemed",
+        "Mystic"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Zephyr"
+      ]
+    },
+    {
+      "name": "Morgana",
+      "id": "Morgana",
+      "cost": 3,
+      "traits": [
+        "Coven",
+        "Nightbringer",
+        "Mystic"
+      ],
+      "items": [
+        "GuardianAngel",
+        "HanofVengeance",
+        "Morellonomicon"
+      ]
+    },
+    {
+      "name": "Nidalee",
+      "id": "Nidalee",
+      "cost": 3,
+      "traits": [
+        "Dawnbringer",
+        "Skirmisher"
+      ],
+      "items": [
+        "DragonsClaw",
+        "HandofJustice",
+        "TitansResolve"
+      ]
+    },
+    {
+      "name": "Nocturne",
+      "id": "Nocturne",
+      "cost": 3,
+      "traits": [
+        "Revenant",
+        "Assassin"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "HandofJustice",
+        "SacrificialInfinityEdge"
+      ]
+    },
+    {
+      "name": "Nunu",
+      "id": "Nunu",
+      "cost": 3,
+      "traits": [
+        "Abomination",
         "Brawler"
+      ],
+      "items": [
+        "DragonsClaw",
+        "HextechGunblade",
+        "SunfireCape"
       ]
     },
     {
-      "name": "Vladimir",
-      "id": "Vladimir",
-      "cost": 2,
+      "name": "Pantheon",
+      "id": "Pantheon",
+      "cost": 3,
       "traits": [
-        "Cultist",
-        "Syphoner"
+        "Dragonslayer",
+        "Dragonslayer"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
       ]
     },
     {
-      "name": "Wukong",
-      "id": "Wukong",
-      "cost": 1,
+      "name": "Riven",
+      "id": "Riven",
+      "cost": 3,
       "traits": [
-        "Divine",
-        "Vanguard"
-      ]
-    },
-    {
-      "name": "Xayah",
-      "id": "Xayah",
-      "cost": 4,
-      "traits": [
-        "Elderwood",
-        "Executioner",
-        "Keeper"
+        "Dawnbringer",
+        "Legionnaire"
+      ],
+      "items": [
+        "GuardianAngel",
+        "HandofJustice",
+        "TitansResolve"
       ]
     },
     {
       "name": "Yasuo",
       "id": "Yasuo",
-      "cost": 1,
-      "traits": [
-        "Exile",
-        "Duelist"
-      ]
-    },
-    {
-      "name": "Yone",
-      "id": "Yone",
-      "cost": 5,
-      "traits": [
-        "Exile",
-        "Adept"
-      ]
-    },
-    {
-      "name": "Yuumi",
-      "id": "Yuumi",
       "cost": 3,
       "traits": [
-        "Spirit",
-        "Mystic"
+        "Nightbringer",
+        "Legionnaire"
+      ],
+      "items": [
+        "HandofJustice",
+        "Rapid Firecannon",
+        "Runaan's Hurricane"
       ]
     },
     {
-      "name": "Zed",
-      "id": "Zed",
-      "cost": 2,
+      "name": "Zyra",
+      "id": "Zyra",
+      "cost": 3,
       "traits": [
-        "Ninja",
-        "Slayer"
+        "Draconic",
+        "Spellweaver"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "JeweledGauntlet",
+        "SpearofShojin"
       ]
     },
     {
-      "name": "Zilean",
-      "id": "Zilean",
+      "name": "Aphelios",
+      "id": "Aphelios",
+      "cost": 4,
+      "traits": [
+        "Nightbringer",
+        "Ranger"
+      ],
+      "items": [
+        "Bloodthirster",
+        "Deathblade",
+        "GuinsoosRageblade"
+      ]
+    },
+    {
+      "name": "Diana",
+      "id": "Diana",
+      "cost": 4,
+      "traits": [
+        "Dragonslayer",
+        "Nightbringer"
+      ],
+      "items": [
+        "Frozen Heart",
+        "GuardianAngel",
+        "InfinityEdge"
+      ]
+    },
+    {
+      "name": "Draven",
+      "id": "Draven",
+      "cost": 4,
+      "traits": [
+        "Forgotten",
+        "Legionnaire"
+      ],
+      "items": [
+        "Rapid Deathcannon",
+        "Riskthirster",
+        "RunaansUntamedHurricane"
+      ]
+    },
+    {
+      "name": "Ivern",
+      "id": "Ivern",
+      "cost": 4,
+      "traits": [
+        "Revenant",
+        "Revenant"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Jax",
+      "id": "Jax",
+      "cost": 4,
+      "traits": [
+        "Ironclad",
+        "Skirmisher"
+      ],
+      "items": [
+        "Bloodthirster",
+        "CausticQuicksilve",
+        "RunaansUntamedHurricane"
+      ]
+    },
+    {
+      "name": "Karma",
+      "id": "Karma",
+      "cost": 4,
+      "traits": [
+        "Dawnbringer",
+        "Invoker"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Mordekaiser",
+      "id": "Mordekaiser",
+      "cost": 4,
+      "traits": [
+        "Dragonslayer",
+        "Legionnaire"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Rell",
+      "id": "Rell",
+      "cost": 4,
+      "traits": [
+        "Ironclad",
+        "Redeemed",
+        "Cavalier"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Ryze",
+      "id": "Ryze",
+      "cost": 4,
+      "traits": [
+        "Abomination",
+        "Forgotten",
+        "Mystic"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Zephyr"
+      ]
+    },
+    {
+      "name": "Taric",
+      "id": "Taric",
+      "cost": 4,
+      "traits": [
+        "Verdant",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Velkoz",
+      "id": "Velkoz",
+      "cost": 4,
+      "traits": [
+        "Redeemed",
+        "Spellweaver"
+      ],
+      "items": [
+        "Quicksilver",
+        "SacrificialGauntlet",
+        "SpearofShojin"
+      ]
+    },
+    {
+      "name": "Darius",
+      "id": "Darius",
       "cost": 5,
       "traits": [
-        "Cultist",
-        "Mystic"
+        "Nightbringer",
+        "God-King",
+        "Knight"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Garen",
+      "id": "Garen",
+      "cost": 5,
+      "traits": [
+        "Nightbringer",
+        "God-King",
+        "Knight"
+      ],
+      "items": [
+        "Ionic Spark",
+        "JeweledGauntlet",
+        "SunfireCape"
+      ]
+    },
+    {
+      "name": "Heimerdinger",
+      "id": "Heimerdinger",
+      "cost": 5,
+      "traits": [
+        "Draconic",
+        "Caretaker",
+        "Renewer"
+      ],
+      "items": [
+        "GuardianAngel",
+        "JeweledGauntlet",
+        "SpearofShojin"
+      ]
+    },
+    {
+      "name": "Kayle",
+      "id": "Kayle",
+      "cost": 5,
+      "traits": [
+        "Redeemed",
+        "Verdant",
+        "Legionnaire"
+      ],
+      "items": [
+        "GuinsoosRageblade",
+        "GuardianAngel",
+        "HextechGunblade"
+      ]
+    },
+    {
+      "name": "Kindred",
+      "id": "Kindred",
+      "cost": 5,
+      "traits": [
+        "Eternal",
+        "Mystic",
+        "Ranger"
+      ],
+      "items": [
+        "ChaliceofPower",
+        "ZekesHerald",
+        "Redemption"
+      ]
+    },
+    {
+      "name": "Teemo",
+      "id": "Teemo",
+      "cost": 5,
+      "traits": [
+        "Hellion",
+        "Cruel",
+        "Invoker"
+      ],
+      "items": [
+        "BlueBuff",
+        "HextechGunblade",
+        "JeweledGauntlet"
+      ]
+    },
+    {
+      "name": "Viego",
+      "id": "Viego",
+      "cost": 5,
+      "traits": [
+        "Forgotten",
+        "Assassin",
+        "Skirmisher"
+      ],
+      "items": [
+        "FrozenHeart",
+        "GuardianAngel",
+        "Quicksilver"
+      ]
+    },
+    {
+      "name": "Volibear",
+      "id": "Volibear",
+      "cost": 5,
+      "traits": [
+        "Revenant",
+        "Brawler"
+      ],
+      "items": [
+        "BrambleVest",
+        "DragonsClaw",
+        "Mor-evil-lonomicon"
       ]
     }
   ],
