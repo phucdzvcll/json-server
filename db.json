@@ -1733,86 +1733,86 @@
           "items": [
             "TitansResolve"
           ]
+        },
+        {
+          "name": "Gragas",
+          "id": "Gragas",
+          "cost": 1,
+          "traits": [
+            "Dawnbringer",
+            "Brawler"
+          ]
+        },
+        {
+          "name": "Ivern",
+          "id": "Ivern",
+          "cost": 4,
+          "traits": [
+            "Revenant",
+            "Revenant"
+          ]
+        },
+        {
+          "name": "Karma",
+          "id": "Karma",
+          "cost": 4,
+          "traits": [
+            "Dawnbringer",
+            "Invoker"
+          ],
+          "items": [
+            "BlueBuff",
+            "HextechGunblade",
+            "JeweledGauntlet"
+          ]
+        },
+        {
+          "name": "Nidalee",
+          "id": "Nidalee",
+          "cost": 3,
+          "traits": [
+            "Dawnbringer",
+            "Skirmisher"
+          ]
+        },
+        {
+          "name": "Riven",
+          "id": "Riven",
+          "cost": 3,
+          "traits": [
+            "Dawnbringer",
+            "Legionnaire"
+          ],
+          "items": [
+            "GuardianAngel",
+            "HandofJustice",
+            "TitansResolve"
+          ]
+        },
+        {
+          "name": "Soraka",
+          "id": "Soraka",
+          "cost": 2,
+          "traits": [
+            "Dawnbringer",
+            "Renewer"
+          ]
+        },
+        {
+          "name": "Volibear",
+          "id": "Volibear",
+          "cost": 5,
+          "traits": [
+            "Revenant",
+            "Brawler"
+          ],
+          "especiallyItem":"DawnbringerEmblem",
+          "items": [
+            "TitansResolve",
+            "DragonsClaw",
+            "DawnbringerEmblem"
+          ]
         }
-      ]
-    },
-    {
-      "name": "Gragas",
-      "id": "Gragas",
-      "cost": 1,
-      "traits": [
-        "Dawnbringer",
-        "Brawler"
-      ]
-    },
-    {
-      "name": "Ivern",
-      "id": "Ivern",
-      "cost": 4,
-      "traits": [
-        "Revenant",
-        "Revenant"
-      ]
-    },
-    {
-      "name": "Karma",
-      "id": "Karma",
-      "cost": 4,
-      "traits": [
-        "Dawnbringer",
-        "Invoker"
-      ],
-      "items": [
-        "BlueBuff",
-        "HextechGunblade",
-        "JeweledGauntlet"
-      ]
-    },
-    {
-      "name": "Nidalee",
-      "id": "Nidalee",
-      "cost": 3,
-      "traits": [
-        "Dawnbringer",
-        "Skirmisher"
-      ]
-    },
-    {
-      "name": "Riven",
-      "id": "Riven",
-      "cost": 3,
-      "traits": [
-        "Dawnbringer",
-        "Legionnaire"
-      ],
-      "items": [
-        "GuardianAngel",
-        "HandofJustice",
-        "TitansResolve"
-      ]
-    },
-    {
-      "name": "Soraka",
-      "id": "Soraka",
-      "cost": 2,
-      "traits": [
-        "Dawnbringer",
-        "Renewer"
-      ]
-    },
-    {
-      "name": "Volibear",
-      "id": "Volibear",
-      "cost": 5,
-      "traits": [
-        "Revenant",
-        "Brawler"
-      ],
-      "especiallyItem":"DawnbringerEmblem",
-      "items": [
-        "TitansResolve",
-        "DragonsClaw",
-        "DawnbringerEmblem"
       ]
     }
   ]
