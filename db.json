@@ -1701,7 +1701,7 @@
     },
     {
       "id": 49,
-      "name": "Hand Of Justice",
+      "name": "Hand of Justice",
       "description": "At the beginning of each planning phase, the holder's basic attacks and spells deal additional damage or heal for a percentage of damage dealt.",
       "isUnique": false,
       "isShadow": false,
@@ -1910,7 +1910,7 @@
     },
     {
       "id": 1012,
-      "name": "Spectral Giantslayer",
+      "name": "Evil Giantslayer",
       "description": "The holder's Abilities and attacks do bonus damage.",
       "isUnique": false,
       "isShadow": true,
@@ -1919,7 +1919,7 @@
     },
     {
       "id": 1013,
-      "name": "Hextech Gunblade Of Immortality",
+      "name": "Hextech Gunblade of Immortality",
       "description": "The holder's magic and true damage from Abilities heals the nearest ally with missing Health for a percentage of the damage dealt.",
       "isUnique": false,
       "isShadow": true,
@@ -2058,7 +2058,7 @@
     },
     {
       "id": 1034,
-      "name": "Archdemon's Staff Of Immortality",
+      "name": "Archdemon's Staff of Immortality",
       "description": "Each time the holder casts their Ability, they gain empty maximum Health equal to a percentage of their maximum Mana. The holder then heals for that amount.",
       "isUnique": false,
       "isShadow": true,
@@ -2172,7 +2172,7 @@
     },
     {
       "id": 1056,
-      "name": "Gargoyle Stoneplate Of Immortality",
+      "name": "Gargoyle Stoneplate of Immortality",
       "description": "The holder heals themself periodically for each enemy targeting them.",
       "isUnique": false,
       "isShadow": true,
