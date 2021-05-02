@@ -1816,8 +1816,7 @@
       "description": "The holder's maximum team size is incrased.",
       "isUnique": false,
       "isShadow": false,
-      "isElement": false,
-      "isSpecial": true
+      "isElement": false
     },
     {
       "id": 98,
@@ -2285,8 +2284,7 @@
       "isUnique": false,
       "isShadow": true,
       "shadowPenalty": "The player's Little Legend takes increased percentage damage after losing a battle.",
-      "isElement": false,
-      "isSpecial": true
+      "isElement": false
     },
     {
       "id": 1098,
