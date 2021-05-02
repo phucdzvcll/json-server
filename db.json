@@ -1529,7 +1529,8 @@
       "description": "The holder gains the Skirmisher trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 19,
@@ -1593,7 +1594,8 @@
       "description": "The holder gains the Legionnaire trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 29,
@@ -1649,7 +1651,8 @@
       "description": "The holder gains the Spellweaver trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 39,
@@ -1697,7 +1700,8 @@
       "description": "The holder gains the Renewer trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 49,
@@ -1737,7 +1741,8 @@
       "description": "The holder gains the Ironclad trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 59,
@@ -1769,7 +1774,8 @@
       "description": "The holder gains the Redeemed trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 69,
@@ -1793,7 +1799,8 @@
       "description": "The holder gains the Dawnbringer trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 79,
@@ -1809,15 +1816,17 @@
       "description": "The holder's maximum team size is incrased.",
       "isUnique": false,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
-      "id": 89,
+      "id": 98,
       "name": "Assassin Emblem",
       "description": "The holder gains the Assassin trait.",
       "isUnique": true,
       "isShadow": false,
-      "isElement": false
+      "isElement": false,
+      "isSpecial": true
     },
     {
       "id": 99,
@@ -1963,7 +1972,7 @@
       "isElement": false
     },
     {
-      "id": 1118,
+      "id": 1018,
       "name": "Forgotten Emblem",
       "description": "The holder gains the Forgotten trait.",
       "isUnique": true,
@@ -2032,7 +2041,7 @@
       "isElement": false
     },
     {
-      "id": 1128,
+      "id": 1028,
       "name": "Hellion Emblem",
       "description": "The holder gains the Hellion trait.",
       "isUnique": true,
@@ -2094,7 +2103,7 @@
       "isElement": false
     },
     {
-      "id": 1138,
+      "id": 1038,
       "name": "Dragonslayer Emblem",
       "description": "The holder gains the Dragonslayer trait.",
       "isUnique": true,
@@ -2148,7 +2157,7 @@
       "isElement": false
     },
     {
-      "id": 1148,
+      "id": 1048,
       "name": "Coven Emblem",
       "description": "The holder gains the Coven trait.",
       "isUnique": true,
@@ -2192,7 +2201,7 @@
       "isElement": false
     },
     {
-      "id": 1158,
+      "id": 1058,
       "name": "Cavalier Emblem",
       "description": "The holder gains the Cavalier trait.",
       "isUnique": true,
@@ -2227,7 +2236,7 @@
       "isElement": false
     },
     {
-      "id": 1168,
+      "id": 1068,
       "name": "Revenant Emblem",
       "description": "The holder gains the Revenant trait.",
       "isUnique": true,
@@ -2253,7 +2262,7 @@
       "isElement": false
     },
     {
-      "id": 1178,
+      "id": 1078,
       "name": "Nightbringer Emblem",
       "description": "The holder gains the Nightbringer trait.",
       "isUnique": true,
@@ -2280,7 +2289,7 @@
       "isSpecial": true
     },
     {
-      "id": 1189,
+      "id": 1098,
       "name": "Abomination Emblem",
       "description": "The holder gains the Abomination trait.",
       "isUnique": true,
